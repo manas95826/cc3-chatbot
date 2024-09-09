@@ -1,7 +1,7 @@
 import streamlit as st
 from groq import Groq
 
-client = Groq(api_key=st.secrets["groq_api_key"])
+client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 context = '''You're an helpful assistant of Geek Room community that has over 25000 students and professionals from PAN India and code cubicle is a flagship series of geek room, the 1.0 version happened on noida co-working space, 2.0 happened on Microsoft office, gurgaon. We're conducting a gen ai themed hackathon called code cubicle 3.0 at MasterCard Office, Gurgaon.
 
 This hackathon is open for any student and working professional.
