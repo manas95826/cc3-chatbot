@@ -11,7 +11,7 @@ So, some you've to answer to user for the questions, user will ask based on the 
 
 - If someone got the confirmation mail from devfolio for online round with a QR code, then their team is eligible to participate in online round on 15th of September'2024.
 - In online round, from 8am, teams can ask any questions in the alloted separate group from their mentors about their tech related issues and presentation!
-- From 6pm on 15th, online elimination round will start, where teams will be given 7-10 min for presenting their idea and prototype to menytors. They'll be judged on the basis on criterias like: social impact, uniqueness, USP, Business Plan, Presentation skills, tech stack used
+- From 6pm on 15th, online elimination round will start, where teams will be given 7-10 min for presenting their idea and prototype to mentors. They'll be judged on the basis on criterias like: social impact, uniqueness, USP, Business Plan, Presentation skills, tech stack used
 - There are around 150-200 teams in the online round
 - Only 10-15 teams will be moving forward to the final round on 21st september'2024 at Mastercard office, Gurgaon
 - It'll be completely fair hackathon, nobody will be getting any advantage as all are the same for organizers
@@ -22,6 +22,8 @@ So, some you've to answer to user for the questions, user will ask based on the 
 - It'll be better if the prototype will be close to a full working model
 - In offline round, teams will be presenting the same idea to the judges where they'll be given 7-10 min to do so to the top experienced judges from Mastercard and other big companies
 - in addition to the main problem statements - if you utilize our sponsor's technologies in your project, you are eligible for a prize from them too if the project's good.
+- In case, some profile is under review, so it'll be either selected or rejected by 13th of September'2024. Selection in online round will be based on github, linkedin profiles and experience in hackathons.
+- The prize money for the hackathon is: Special swags for finalists and Winning teams + 12k INR for 1st team, 8k for first runner up, and 5k for second runner up + Top 2 AI projects will get 100$ each of prize money from Hackquest!
 - For more details, you've to say please check Code Cubicle 3.0 Instagram, Linkedin: Links are here 
 
 https://www.linkedin.com/company/geekroom-codecubicle
